@@ -3,14 +3,10 @@
 
 The line "Click the button below to generate a random list"
 Suggestion: Your list is about the fruits so you can write the "Click to generate fruits"
-<details>
 
   <img src="./photos/front-page.png" alt = "new"/>
 
-  <summary>
-    OUTPUT
-  </summary>
-</details>
+
 
 <hr>
 
@@ -25,6 +21,5 @@ Suggestion: Your list is about the fruits so you can write the "Click to generat
 
 It should have look like:
 
-<hr>
 
 <img src="./photos/new.png" alt = "new"/>
