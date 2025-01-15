@@ -11,6 +11,7 @@ Suggestion: Your list is about the fruits so you can write the "Click to generat
     OUTPUT
   </summary>
 </details>
+
 <hr>
 
 ### Second
@@ -23,5 +24,7 @@ Suggestion: Your list is about the fruits so you can write the "Click to generat
 - Wrap the content in container
 
 It should have look like:
+
+<hr>
 
 <img src="./photos/new.png" alt = "new"/>
