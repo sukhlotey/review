@@ -1,4 +1,6 @@
 # review code
+### First
+
 <details>
 The line "Click the button below to generate a random list"
 Suggestion: Your list is about the fruits so you can write the "Click to generate fruits"
@@ -6,3 +8,17 @@ Suggestion: Your list is about the fruits so you can write the "Click to generat
     OUTPUT
   </summary>
 </details>
+<hr>
+
+### Second
+
+<b>Suggestion:</b> You can make it more attractive.
+
+- Add background color
+- Add text colors
+- Capital the first letter of items
+- Wrap the content in container
+
+It should have look like:
+
+<img src="./photos/"
